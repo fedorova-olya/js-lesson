@@ -12,7 +12,7 @@ function splitAndPush(sourceString) {
     }
     console.log(letters)
     console.log(letters.join(""))
-    return letters.join("") //не работае6т return((
+    //не работае6т return((
 
 }
 
